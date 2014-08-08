@@ -2,6 +2,7 @@
 ## Generic System Ignores
 syntax: glob
 
+.idea/
 !.gitignore
 # build directories and files
 #hg syntax
