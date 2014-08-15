@@ -2,6 +2,7 @@
 ## Generic System Ignores
 syntax: glob
 
+makethai.js
 .idea/
 !.gitignore
 # build directories and files
